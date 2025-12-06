@@ -10,6 +10,7 @@ public class Maven1 {
 	@Test
 	public void A() {
 		System.out.println("Maven1");
+		System.out.println("M2");
 		
 	}
 	
